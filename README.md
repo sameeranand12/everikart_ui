@@ -15,3 +15,8 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# everikart_ui" 
+
+## Snapshots
+ ![image](https://user-images.githubusercontent.com/56514538/129230452-5b21a30e-2946-4577-bf57-31f25ab2b4fc.png)
+![image](https://user-images.githubusercontent.com/56514538/129230520-8a245afc-eb55-41a9-8ed0-47acd00c93fd.png)
+
