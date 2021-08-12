@@ -218,7 +218,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               height: 10,
                             ),
                             Text(
-                              'Men\'s',
+                              'Children\'s',
                               style: TextStyle(
                                 fontSize: 13.0,
                               ),
